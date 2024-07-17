@@ -12,34 +12,13 @@ The analysis revealed several key insights:
 - **Income Range**: Consumers with incomes between $25,000 and $49,999 show the highest acceptance rates, suggesting a demographic with balanced discretionary spending.
 - **Age Groups**: The '26-35' and '65+' age groups are most likely to accept coffee coupons, reflecting lifestyle preferences and routines.
 
-## Project Structure
-
-The repository is organized as follows:
-
-project-root/
-│
-├── data/
-│ └── coupons.csv # Raw data file
-│
-├── notebooks/
-│ └── Coupon_Acceptance_Analysis.ipynb # Jupyter notebook with analysis
-│
-├── images/
-│ └── acceptance_by_time.png # Plots and visualizations
-│ └── acceptance_by_weather.png
-│ └── acceptance_by_income.png
-│ └── acceptance_by_age.png
-│
-├── README.md # Project overview and findings (this file)
-└── .gitignore # List of files/folders to ignore in the repo
-
 
 
 ## Jupyter Notebook
 
 The analysis is thoroughly documented in the Jupyter notebook, which includes formatted headings and explanatory text to guide the reader through the process and findings.
 
-[Link to the Jupyter Notebook](notebooks/Coupon_Acceptance_Analysis.ipynb)
+[Link to the Jupyter Notebook](notebooks/coupon.ipynb)
 
 ## Repository Guidelines
 
